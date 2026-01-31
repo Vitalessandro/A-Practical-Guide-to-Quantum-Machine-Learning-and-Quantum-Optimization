@@ -1,1 +1,20 @@
-.ipynb_checkpoints
+# Python / venv
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Build / output / cache
+dist/
+build/
+out/
+*.log
+
+# Node (se c'è)
+node_modules/
+
